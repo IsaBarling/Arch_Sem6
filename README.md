@@ -47,4 +47,5 @@
 
 # ERD схема мед клиники из моего дипломного проекта
 
+![ERD_clinic_diagram](https://github.com/IsaBarling/Arch_Sem6/assets/99403468/b8ac434b-faa1-49a0-a60e-ad235ad6357b)
 
